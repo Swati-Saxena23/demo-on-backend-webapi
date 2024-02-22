@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ZzUags9hGVnogeT4m19POuRL9l8BSbE2bAmKLH70byw=",
+  "Source": "demo-backend-on-githuab-actions",
+  "BasePath": "_content/demo-backend-on-githuab-actions",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
